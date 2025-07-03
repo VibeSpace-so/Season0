@@ -7,8 +7,6 @@ This is the central hub for all projects created during this five-day creative b
 > 🎉 **Speak it. Build it. Ship it.**  
 > VibeSpace is not a hackathon, accelerator, or conference. It's a new kind of build sprint, where companies, students, and builders collide to turn sparks into working prototypes.
 
----
-
 ## 📌 How to Participate
 
 1. **Start a Discussion for Your Idea**
@@ -19,8 +17,6 @@ This is the central hub for all projects created during this five-day creative b
 2. **Submit Your Project**
 
    - When you're ready to submit your project, post it in the [**Projects category**](https://github.com/VibeSpace-so/Season0/discussions/categories/projects) using the template below:
-
----
 
 ## 📄 Project Submission Template
 
@@ -48,8 +44,6 @@ Copy and paste this template when submitting your project in the `Projects` disc
 <Relevant links to the project here, like repository, links, demo video, etc>
 ```
 
----
-
 ## 📅 Schedule Overview
 
 | Date      | Time            | Activity                              |
@@ -61,8 +55,6 @@ Copy and paste this template when submitting your project in the `Projects` disc
 | July 18   | 9AM – 1PM         | Final Sprint                          |
 |           | 2PM – 5PM         | Project Demonstrations                |
 
----
-
 ## 🤝 Mentors
 
 - **Matheus Pagani** – Build City Lead  
@@ -71,25 +63,9 @@ Copy and paste this template when submitting your project in the `Projects` disc
 - **Saverio "Sam" Marrazzo** – BNMC Lead  
   Chief Innovation Officer at BNMC, leading tech and healthcare innovation in Buffalo.
 
----
-
-## 🔗 Learn More
-
-- [Buffalo Niagara Medical Campus](https://bnmc.org)
-- [Event Discussion: Share Your Ideas](https://github.com/VibeSpace-so/Season0/discussions/2)
-- [Submit Your Project](https://github.com/VibeSpace-so/Season0/discussions/categories/projects)
-
----
-
 ## 🚀 Apply Now
 
-Spots are limited and we’re ordering pizza, so make sure to [**apply early**](https://your-application-link.com) to secure your place and help us plan accordingly 🙏
-
----
-
-## 📜 Code of Conduct
-
-By registering and participating in this event, you agree to our community [Code of Conduct](https://your-code-of-conduct-link.com). Let’s build with respect, inclusion, and collaboration at the core.
+Spots are limited and we’re ordering pizza, so make sure to [**apply early**]([https://your-application-link.com](https://lu.ma/8mb7l0cz)) to secure your place and help us plan accordingly 🙏
 
 ---
 
